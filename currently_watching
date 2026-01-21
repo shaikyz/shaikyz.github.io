@@ -1,0 +1,96 @@
+<style type="text/css" media="screen">
+.mdlw-container-pB0eVQ {
+	font-size: 14px;
+	padding: 12px;
+	border: 1px solid #dddddd;
+	border-radius: 5px;
+	background-color:#ffffff;
+	width: 300px;
+}
+.mdlw-item-pB0eVQ {
+	display: block;
+	position: relative;
+	padding: 12px 0;
+	overflow: hidden;
+}
+.mdlw-container-pB0eVQ a {
+	color: #5B057A;
+	text-decoration: none;
+	cursor: pointer;
+	outline: 0;
+}
+.mdlw-rating-pB0eVQ {
+	padding-left: 5px;
+}
+.mdlw-star-pB0eVQ {
+	width: 70px;
+	color: #ddd;
+	overflow: hidden;
+	position: relative;
+	display: inline-block;
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	top: 4px;
+	line-height: 17px;
+}
+.mdlw-star-pB0eVQ:before {
+	content: "★★★★★";
+}
+.mdlw-star-pB0eVQ .mdlw-fill-pB0eVQ {
+	max-width: 70px;
+	color: #ffd600;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+	-moz-transition: all 300ms ease-out;
+	-o-transition: all 300ms ease-out;
+	-webkit-transition: all 300ms ease-out;
+	transition: all 300ms ease-out;
+}
+.mdlw-star-pB0eVQ .mdlw-fill-pB0eVQ:before {
+	content: "★★★★★";
+}
+.mdlw-header-pB0eVQ {
+	font-size: 17px;
+	margin: 0;
+}
+.mdlw-title-pB0eVQ {
+	font-weight: 600;
+}
+.mdlw-title-pB0eVQ .mdlw-ep-seen {
+	font-weight: normal;
+	padding-left: 3px;
+}
+.mdlw-ctype-pB0eVQ {
+	color: #999;
+}
+.mdlw-status-pB0eVQ {
+}
+.mdlw-cover-pB0eVQ {
+	width:44px;
+	height:61px;
+	background-color: #eee;
+	float: left;
+	margin-right: 10px;
+	display: block;
+}
+.mdlw-cover-pB0eVQ > a {
+	width: 100%;
+	display: block;
+}
+.mdlw-cover-pB0eVQ img {
+	width: 100%;
+	display: block;
+}
+.mdlw-content-pB0eVQ {
+	margin-left: 54px;
+	min-height: 60px;
+}
+.mdlw-time-pB0eVQ {
+	color: inherit;
+	opacity: .6;
+}</style>
+<div id="mdl_widget_pB0eVQ"><div class="mdlw-container-pB0eVQ"><h2 class="mdlw-header-pB0eVQ"><a href="https://mydramalist.com/dramalist/Svenni/watching">Currently Watching</a></h2><div class="mdlw-item-pB0eVQ"><div class="mdlw-cover-pB0eVQ"><a href="https://mydramalist.com/60739-ireland-season-2?utm_medium=widgets&amp;utm_source=list_updates" title="Island Part 2"><img src="https://i.mydramalist.com/BddB47_4t.jpg"></a></div><div class="mdlw-content-pB0eVQ"><div class="mdlw-title-pB0eVQ"><a href="https://mydramalist.com/60739-ireland-season-2?utm_medium=widgets&amp;utm_source=list_updates" title="Island Part 2">Island Part 2</a></div><div class="mdlw-status-pB0eVQ"><div class="mdlw-time-pB0eVQ">22 minutes ago</div></div></div></div><div class="mdlw-item-pB0eVQ"><div class="mdlw-cover-pB0eVQ"><a href="https://mydramalist.com/787814-idol-kid?utm_medium=widgets&amp;utm_source=list_updates" title="Idol I"><img src="https://i.mydramalist.com/nOl3eB_4t.jpg"></a></div><div class="mdlw-content-pB0eVQ"><div class="mdlw-title-pB0eVQ"><a href="https://mydramalist.com/787814-idol-kid?utm_medium=widgets&amp;utm_source=list_updates" title="Idol I">Idol I</a></div><div class="mdlw-status-pB0eVQ"><div class="mdlw-time-pB0eVQ">6 hours ago</div></div></div></div><div class="mdlw-item-pB0eVQ"><div class="mdlw-cover-pB0eVQ"><a href="https://mydramalist.com/780090-dare-you-to-death?utm_medium=widgets&amp;utm_source=list_updates" title="Dare You to Death"><img src="https://i.mydramalist.com/73eXdN_4t.jpg"></a></div><div class="mdlw-content-pB0eVQ"><div class="mdlw-title-pB0eVQ"><a href="https://mydramalist.com/780090-dare-you-to-death?utm_medium=widgets&amp;utm_source=list_updates" title="Dare You to Death">Dare You to Death</a></div><div class="mdlw-status-pB0eVQ"><div class="mdlw-time-pB0eVQ">2 days ago</div></div></div></div><div class="mdlw-item-pB0eVQ"><div class="mdlw-cover-pB0eVQ"><a href="https://mydramalist.com/768503-goddess-bless-you-from-death?utm_medium=widgets&amp;utm_source=list_updates" title="Goddess Bless You from Death"><img src="https://i.mydramalist.com/Px5nr3_4t.jpg"></a></div><div class="mdlw-content-pB0eVQ"><div class="mdlw-title-pB0eVQ"><a href="https://mydramalist.com/768503-goddess-bless-you-from-death?utm_medium=widgets&amp;utm_source=list_updates" title="Goddess Bless You from Death">Goddess Bless You from Death</a></div><div class="mdlw-status-pB0eVQ"><div class="mdlw-time-pB0eVQ">2 days ago</div></div></div></div><div class="mdlw-item-pB0eVQ"><div class="mdlw-cover-pB0eVQ"><a href="https://mydramalist.com/62495-untitled?utm_medium=widgets&amp;utm_source=list_updates" title="Live On"><img src="https://i.mydramalist.com/xW1vX_4t.jpg"></a></div><div class="mdlw-content-pB0eVQ"><div class="mdlw-title-pB0eVQ"><a href="https://mydramalist.com/62495-untitled?utm_medium=widgets&amp;utm_source=list_updates" title="Live On">Live On</a></div><div class="mdlw-status-pB0eVQ"><div class="mdlw-time-pB0eVQ">3 days ago</div></div></div></div><a class="mdlw-btn-pB0eVQ" href="https://mydramalist.com/dramalist/Svenni/watching">See full list »</a></div></div>
+<script src="https://mydramalist.com/widgets/pB0eVQ/list_updates?status=1&header=Currently Watching&limit=5&rating=0" type="text/javascript" charset="utf-8"></script>
